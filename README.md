@@ -40,4 +40,4 @@ $ npm init -y
 $ npm install --save-dev  gulp-sass   browser-sync  gulp  gulp-postcss  autoprefixer  cssnano  gulp-sourcemaps
 ```
 
-#### Take the gulpfile.js from here and your all set with the starter pack.
+Take the gulpfile.js from here and your all set with the starter pack.
