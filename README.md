@@ -37,7 +37,7 @@ $ npm init -y
 ### Install the necessary dependencies
 
 ```sh
-$ npm install --save-dev  gulp-sass   browser-sync  gulp
+$ npm install --save-dev  gulp-sass   browser-sync  gulp  gulp-postcss  autoprefixer  cssnano  gulp-sourcemaps
 ```
 
 #### Take the gulpfile.js from here and your all set with the starter pack.
