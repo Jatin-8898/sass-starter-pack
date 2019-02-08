@@ -1,4 +1,4 @@
-# Sass Starter Pack
+# ♦️ Sass Starter Pack
 
 A light package for compiling Sass(scss files) and running a dev server using Browser Sync.
 
@@ -24,7 +24,7 @@ This will watch your sass files, compile them and run your dev server at http://
 $ npm start
 ```
 
-## Alternatively
+## 〽️ Alternatively
 
 ### Init the package.json
 
