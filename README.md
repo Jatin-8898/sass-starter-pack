@@ -2,6 +2,8 @@
 
 A light package for compiling Sass(scss files) and running a dev server using Browser Sync.
 
+You can check out this [Medium article](https://levelup.gitconnected.com/how-to-setup-your-workflow-using-gulp-v4-0-0-5450e3d7c512)
+
 ### Version
 1.0.0
 
