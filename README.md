@@ -5,7 +5,7 @@ A light package for compiling Sass(scss files) and running a dev server using Br
 ### Version
 1.0.0
 
-## Usage
+## 📝 Usage
 
 
 ### Installation
