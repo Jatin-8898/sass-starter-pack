@@ -9,8 +9,14 @@ You can check out this [Medium article](https://levelup.gitconnected.com/how-to-
 
 ## 📝 Usage
 
+### Clone this Repo
+```
+git clone https://github.com/Jatin-8898/sass-starter-pack.git
+```
 
 ### Installation
+
+Get started quickly by cloning this repository.
 
 Install the dependencies (gulp, gulp-sass, browser-sync)
 
@@ -42,4 +48,4 @@ $ npm init -y
 $ npm install --save-dev  gulp-sass   browser-sync  gulp  gulp-postcss  autoprefixer  cssnano  gulp-sourcemaps
 ```
 
-Take the gulpfile.js from here and your all set with the starter pack.
+Take the *gulpfile.js* from here and your all set with the starter pack.
