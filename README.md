@@ -1,14 +1,22 @@
-# Sass Starter Pack
+# ♦️ Sass Starter Pack
 
 A light package for compiling Sass(scss files) and running a dev server using Browser Sync.
+
+You can check out this [Medium article](https://levelup.gitconnected.com/how-to-setup-your-workflow-using-gulp-v4-0-0-5450e3d7c512)
 
 ### Version
 1.0.0
 
-## Usage
+## 📝 Usage
 
+### Clone this Repo
+```
+git clone https://github.com/Jatin-8898/sass-starter-pack.git
+```
 
 ### Installation
+
+Get started quickly by cloning this repository.
 
 Install the dependencies (gulp, gulp-sass, browser-sync)
 
@@ -24,7 +32,7 @@ This will watch your sass files, compile them and run your dev server at http://
 $ npm start
 ```
 
-## Alternatively
+## 〽️ Alternatively
 
 ### Init the package.json
 
@@ -40,4 +48,4 @@ $ npm init -y
 $ npm install --save-dev  gulp-sass   browser-sync  gulp  gulp-postcss  autoprefixer  cssnano  gulp-sourcemaps
 ```
 
-Take the gulpfile.js from here and your all set with the starter pack.
+Take the *gulpfile.js* from here and your all set with the starter pack.
