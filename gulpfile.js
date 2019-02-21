@@ -42,8 +42,9 @@ function style() {
 
 
 // A simple task to reload the page
-function reload() {
+function reload(done) {
     browserSync.reload();
+    done();
 }
 
 // Add browsersync initialization at the start of the watch task
