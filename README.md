@@ -32,7 +32,7 @@ This will watch your sass files, compile them and run your dev server at http://
 $ npm start
 ```
 
-## 〽️ Alternatively
+## Alternatively
 
 ### Init the package.json
 
