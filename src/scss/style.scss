@@ -1,7 +1,33 @@
-$bg-color: #BA265D;
-$color: #FFF;
+@import 
+    'abstracts/variables',
+    'abstracts/function',
+    'abstracts/mixins';
 
-body {
-    background: $bg-color;
-    color: $color;
-}
+@import
+    'vendors/normalize';
+
+@import
+    'base/base',
+    'base/typography';
+
+@import
+    'layout/navigation',
+    'layout/grid',
+    'layout/header',
+    'layout/footer',
+    'layout/sidebar',
+    'layout/forms';
+
+@import
+    'components/buttons',
+    'components/carousel',
+    'components/cover',
+    'components/dropdown';
+
+@import
+    'pages/home',
+    'pages/contact';
+
+@import
+    'themes/theme',
+    'themes/admin';
