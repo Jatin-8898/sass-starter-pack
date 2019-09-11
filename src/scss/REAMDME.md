@@ -1,6 +1,6 @@
-<h1>Architecture Sass 7:1 Pattern</h1>
+<h1>7:1 architecture pattern</h1>
 
-This is architecture  model Sass "7:1 pattern", consisting of 7 folders and 1 file. The entire project style is divided into files within 7 folders, and a single root file imports all files into a single style sheet.
+This is architecture model Sass "7:1 architecture pattern", consisting of 7 folders and 1 file. The entire project style is divided into files within 7 folders, and a single root file imports all files into a single style sheet.
 
 <pre>
 scss/
