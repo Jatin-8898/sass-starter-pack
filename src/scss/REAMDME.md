@@ -1,5 +1,8 @@
+<h1>Architecture Sass 7:1 Pattern</h1>
+
 This is architecture  model Sass "7:1 pattern", consisting of 7 folders and 1 file. The entire project style is divided into files within 7 folders, and a single root file imports all files into a single style sheet.
 
+<pre>
 scss/
 |
 |– abstracts/
@@ -37,7 +40,8 @@ scss/
 |   |– _normalize.scss    # Normalize
 |   …                     # Etc.
 |
-`– style.scss              # Sass main file
+– style.scss              # Sass main file
+</pre>
 
-Obs: This model was based on the Sass guidelines architecture(https://sass-guidelin.es/pt/#o-padro-7-1)
+Obs: This model was based on the <a href="https://sass-guidelin.es/pt/#o-padro-7-1">Sass guidelines architecture</a>
 
