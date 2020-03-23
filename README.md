@@ -1,4 +1,8 @@
-# ♦️ Sass Starter Pack
+# Sass Starter Pack ♦️
+
+[![GitHub stars](https://img.shields.io/github/stars/Jatin-8898/sass-starter-pack)](https://github.com/Jatin-8898/sass-starter-pack/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jatin-8898/sass-starter-pack)](https://github.com/Jatin-8898/sass-starter-pack/network) 
+[![GitHub license](https://img.shields.io/github/license/Jatin-8898/sass-starter-pack)](https://github.com/Jatin-8898/sass-starter-pack/blob/master/LICENSE)
 
 A light package for compiling Sass(scss files) and running a dev server using Browser Sync.
 
