@@ -1,7 +1,36 @@
-$bg-color: #BA265D;
-$color: #FFF;
+// To ensure use of utf-8 encoding format
+@charset 'UTF-8';
 
-body {
-    background: $bg-color;
-    color: $color;
-}
+// Config
+@import
+    "abstracts/variables",
+    "abstracts/mixins",
+    "abstracts/placeholders";
+
+// Vendors (bootstrap, jquery...)
+@import
+    "vendors/normalize";
+
+// Base
+@import
+    "base/reset",
+    "base/typography";
+
+// Layout of each section
+@import
+    "layout/grid",    
+    "layout/header",
+    "layout/footer";
+
+// Components
+@import
+    "components/buttons",
+    "components/forms";
+
+// Specific styles of each page
+@import
+    "pages/home";
+
+// Themes
+@import
+    "themes/night"
